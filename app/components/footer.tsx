@@ -42,10 +42,10 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p className="mt-8 text-neutral-600 dark:text-neutral-300">
-        © {new Date().getFullYear()} Maria Ortiz Castillo
+      <p className="mt-8 text-neutral-400 dark:text-neutral-300">
+        Built with TypeScript, Next.js and Tailwind CSS © {new Date().getFullYear()} Maria Ortiz Castillo 
       </p>
-      <p className="text-neutral-600 dark:text-neutral-300">
+      <p className="text-neutral-400 dark:text-neutral-300">
         Template by {" "}
         <a href="https://vercel.com/templates/next.js/portfolio-starter-kit" target="_blank" rel="noopener noreferrer" className="underline">
           Vercel
